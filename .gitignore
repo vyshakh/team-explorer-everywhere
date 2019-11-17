@@ -1,9 +1,9 @@
-/.build/downloads
-/.build/eclipse
-/.gradle
-/.idea
-/build
+/.build/downloads/
+/.build/eclipse/
+/.gradle/
+/.idea/
 
-bin
+bin/
+build/
 
 *.iml
