@@ -406,6 +406,7 @@ public abstract class Application implements AbstractConsoleApplication {
              * exceptions are wrapped in these.
              */
             CLCTelemetryHelper.sendException(e);
+            e.printStackTrace();
 
             final String messageFormat = Messages.getString("Application.AnErrorOccurredFormat"); //$NON-NLS-1$
             final String message = MessageFormat.format(messageFormat, e.getLocalizedMessage());
