@@ -1,4 +1,4 @@
-## How To Get TFS Working on macOS 🙁!
+## How To Get TFS Working on macOS!
 
 This guide is entirely intended for macOS users but could prove very useful for many Linux users and somewhat helpful for a few Windows users as well.
 
