@@ -78,6 +78,9 @@ Along with open-sourced Team Explorer Everywhere (TEE) source code, we are makin
 
 Please click [Localization](./Localization.md) for details on how to contribute in TEE community translation effort. Feel free to contact [us](mailto:kevinli@microsoft.com) if you have any questions.
 
+## Useful links
+[Setup TFS on macOS](./tfs-mac-os-setup.md)
+
 **Happy contributing!**
 
 [adoptopenjdk]: https://adoptopenjdk.net/
