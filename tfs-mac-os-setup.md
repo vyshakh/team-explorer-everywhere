@@ -147,3 +147,6 @@ Supposing you've even made it this far somehow you are bound to encounter errors
     tf workspace -delete -collection:https://tfs.https://tfs.YourTFSServerAddress.com/Whatever YourWorkspaceName
 
 Then repeat steps 15-17. This is probably overkill but I've gotten fast at it and almost always clears up my issues and allows me get back to work within a few minutes. Here's hoping your fare better on your journey with this process.
+
+
+Source https://gist.github.com/counterlogik
